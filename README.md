@@ -7,7 +7,7 @@ Show how to use ADL with 2 detectors in parallel and how to launch jobs.
 LET’S SET THE ENVIRONMENT
 2.	Create a /path/to/MunichWorkshop repository
 
-3.	Get and compile ADL4 (make all) in /path/to/MunichWorkshop/ADL4/ repository
+3.	Get (https://github.com/mppmu/ADL4.git) and compile ADL4 (make all) in /path/to/MunichWorkshop/ADL4/ repository
 
 4.	Add export LD_LIBRARY_PATH="/path/to/MunichWorkshop/testadl/lib:$LD_LIBRARY_PATH" 
 to your ${HOME}/.bashrc
